@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"> ⚡️ <ins>ES-Gaussian</ins> <br>Gaussian Splatting Mapping via Error Space-Based Gaussian Completion</h1>
+  <h1 align="center"> <img src="./media/dreame_simulation.jpg" width="35"> <ins>ES-Gaussian</ins> <br>Gaussian Splatting Mapping via Error Space-Based Gaussian Completion</h1>
     <p align="center">
     <a href="https://chenlu-china.github.io/"><strong>Lu Chen</strong></a>
     ·
@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://arxiv.org/abs/2410.06613">
-    <img src="./media/architecture.jpg" alt="Logo" width=100%>
+    <img src="./media/architecture.jpg" alt="Logo" width=90%>
   </a>
   <br>
   <em>ES-Gaussian is an end-to-end system using a low-altitude camera and single-line LiDAR for high-quality 3D indoor reconstruction.</em>
@@ -35,6 +35,24 @@ The code and data will be made available once the paper is accepted. Please stay
 ## Description
 
 For more details, please read our [paper](https://arxiv.org/pdf/2410.06613) and visit our [project page](https://rwn17.github.io/nerf-on-the-go/).
+
+## Qualitative results on our Dreame-SR dataset
+
+<p align="center">
+    <img src="./media/qualitative_results_1.jpg" alt="nvs_synthetic" style="width:85%; height:auto;">
+</p>
+
+<br>
+
+<p align="center">
+    <img src="./media/qualitative_results_2.jpg" alt="nvs_synthetic" style="width:85%; height:auto;">
+</p>
+
+## Qualitative results on Ground-Challenge dataset
+
+<p align="center">
+    <img src="./media/qualitative_results_3.jpg" alt="nvs_synthetic" style="width:85%; height:auto;">
+</p>
 
 ## Citation
 
