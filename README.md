@@ -39,19 +39,19 @@ For more details, please read our [paper](https://arxiv.org/pdf/2410.06613) and 
 ## Qualitative results on our Dreame-SR dataset
 
 <p align="center">
-    <img src="./media/qualitative_results_1.jpg" alt="nvs_synthetic" style="width:85%; height:auto;">
+    <img src="./media/qualitative_results_1.jpg" alt="qualitative_dreame_sr" style="width:85%; height:auto;">
 </p>
 
 <br>
 
 <p align="center">
-    <img src="./media/qualitative_results_2.jpg" alt="nvs_synthetic" style="width:85%; height:auto;">
+    <img src="./media/qualitative_results_2.jpg" alt="qualitative_dreame_sr" style="width:85%; height:auto;">
 </p>
 
 ## Qualitative results on Ground-Challenge dataset
 
 <p align="center">
-    <img src="./media/qualitative_results_3.jpg" alt="nvs_synthetic" style="width:85%; height:auto;">
+    <img src="./media/qualitative_results_3.jpg" alt="qualitative_ground_challenge" style="width:85%; height:auto;">
 </p>
 
 ## Citation
