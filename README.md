@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"> <ins>ES-Gaussian</ins> ⚡️<br>Gaussian Splatting Mapping via Error Space-Based Gaussian Completion</h1>
+  <h1 align="center"> ⚡️ <ins>ES-Gaussian</ins> <br>Gaussian Splatting Mapping via Error Space-Based Gaussian Completion</h1>
     <p align="center">
     <a href="https://chenlu-china.github.io/"><strong>Lu Chen</strong></a>
     ·
